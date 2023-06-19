@@ -29,7 +29,7 @@ export function App() {
       completed: false,
     }
 
-    setTasks(state => [...state, newTask])
+    setTasks(state => [newTask, ...state])
     setNewTaskDescription('')
   }
 
