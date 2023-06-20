@@ -16,6 +16,8 @@
 
 Clone o projeto `git clone git@github.com:redsonfarias/todo-list.git`
 
+Use `npm i` para instalar as dependências
+
 Use `npm run dev` para executar a aplicação
 
 <br />
