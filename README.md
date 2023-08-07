@@ -1,28 +1,24 @@
-<h3 align="center">
-  ToDo List
-</h3>
+# ToDo List
+ToDo List é o primeiro desafio da trilha de ReactJS do bootcamp Ignite da Rocketseat, onde o propósito é desenvolver uma aplicação de controle de tarefas no estilo to-do list.
 
-<h4>
-  Deploy
-</h4>
+### Objetivos
+Aprimorar habilidades em conceitos como estados de uma aplicação, imutabilidade dos estados, listagens, componentização, propriedades e a criação de interfaces  responsivas utilizando CSS Modules.
 
-<a href="https://todo-list-ochre-mu.vercel.app/">
-  https://todo-list-ochre-mu.vercel.app/
-</a>
+### Aplicação
+[https://todo-list-ochre-mu.vercel.app](https://todo-list-ochre-mu.vercel.app)
 
-<h4>
-  Instalação/Execução
-</h4>
+### Instalação/Execução
+Clone o projeto
+```sh
+git clone git@github.com:redsonfarias/todo-list.git
+```
 
-Clone o projeto `git clone git@github.com:redsonfarias/todo-list.git`
+Instale as dependências
+```sh
+npm install
+```
 
-Use `npm i` para instalar as dependências
-
-Use `npm run dev` para executar a aplicação
-
-<br />
-
-![image](https://github.com/redsonfarias/todo-list/assets/130811163/4af1381c-bf21-4b08-8107-fe9d3b406b6a)
-
-![image](https://github.com/redsonfarias/todo-list/assets/130811163/cf7344cb-fd74-4f88-999d-860973e4de74)
-![image](https://github.com/redsonfarias/todo-list/assets/130811163/248adea6-d2ef-4c77-a9bd-5929dae518c6)
+Execute a aplicação
+```sh
+npm run dev
+```
